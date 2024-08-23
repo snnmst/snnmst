@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👤 About Me
 - I'm pursuing my Master's in Data Science and Artificial Intelligence at Bogazici University Istanbul.
-- 🌱 I'm deeply engaged in Deep Learning, Reinforcement Learning for Visual Recognition, and I'm passionate about exploring the NLP and LLM.
+- 🌱 I'm deeply engaged in Deep Learning, Reinforcement Learning, and I'm passionate about exploring the NLP and LLM.
 
 
 ## 🛠 Tech Stack
